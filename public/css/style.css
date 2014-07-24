@@ -1,0 +1,87 @@
+.logoFont{
+	font-family: 'Simonetta', cursive;
+	font-size: 45px;
+}
+
+.btn-primary {
+  .buttonBackground(#658DF3, #53F1F1);
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+
+.droid{
+	background-color: #FFA358;
+	margin-bottom: 5px;
+}
+
+.ios{
+	background-color: #FFA358;
+}
+
+.cf{
+	background-color: black;
+	color:white;
+}
+
+#socialLinks{
+	padding-right: 50px;
+}
+
+.center-block() {
+  display: block;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.fillScreen{
+	width: 100%;
+	min-height: 700px;
+	text-align: center;
+	padding-top: 0px;
+}
+
+.content1{
+	padding-top: 100px;
+}
+
+.content{
+	padding-top: 300px;
+}
+
+#first{
+	background-color: white;
+}
+
+#second{
+	background-color: #FFA358;
+	color: white;
+}
+
+#third{
+	background-color: #FFC858;
+	color: #359999;
+}
+
+#fourth{
+	background-color: #658DF3;
+	color: white;
+}
+
+#fifth{
+	background-color: #53F1F1;
+	color: #0447F1;
+}
+
+.big{
+	font-family: 'Ek Mukta', sans-serif;
+	font-size: 50px;
+}
+
+.footer{
+	width: 100%;
+	min-height: 200px;
+	text-align: center;
+	padding-top: 0px;
+	background-color: black;
+	color: white;
+}

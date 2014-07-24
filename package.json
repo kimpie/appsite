@@ -1,0 +1,16 @@
+{
+  "name": "fibs_Promo_Site",
+  "description": "One page marketing site for fibs app",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node server"
+  },
+  "dependencies": {
+    "express": "3.x"
+  },
+  "subdomain": "playfibs",
+  "engines": {
+    "node": "0.10.x"
+  }
+}
